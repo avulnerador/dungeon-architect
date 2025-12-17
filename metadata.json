@@ -1,0 +1,5 @@
+{
+  "name": "Dungeon Architect",
+  "description": "A system-agnostic event generator for TTRPG Game Masters. Create systems, manage datasets, and generate visual event cards.",
+  "requestFramePermissions": []
+}
